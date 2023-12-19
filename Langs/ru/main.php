@@ -1,0 +1,26 @@
+<?php
+return [
+    'users' => 'Пользователи',
+    'users-list' => 'Получить список',
+    'user-item' => 'Получить запись',
+    'user-create' => 'Создать',
+    'user-update' => 'Обновить',
+    'roles' => 'Роли',
+    'roles-list' => 'Получить список',
+    'role-item' => 'Получить запись',
+    'role-create' => 'Создать',
+    'role-update' => 'Обновить',
+    'permissions' => 'Разрешения',
+    'permissions-list' => 'Получить список',
+    'subjects' => 'Предметы',
+    'list' => 'Получить список',
+    'item' => 'Получить запись',
+    'create' => 'Создать',
+    'update' => 'Обновить',
+    'countries' => 'Страны',
+    'cities' => 'Город',
+    'title' => 'Наименование',
+    'country_id' => 'Страна',
+    'is_active' => 'Активный',
+    'change_status' => 'Обновление статуса'
+];
